@@ -3,7 +3,7 @@
 Project at Turing College | May 2021
 
 ## Sprint 2: Statistical Tests and Experiments
-The goal is to analyse once run, online Udacity A/B test results! <br/>
+ <br/>
 Data is available at https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0
 ### **INTRODUCTION**
  ### Problem statement:
@@ -23,7 +23,7 @@ Data is available at https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPX
 ``` Statsmodels ```
 ``` Scipy ```
 
-### Conclusion
+### CONCLUSION
 
 * More students enrolled inthe course in the control group than in the experiment group.
 * There was no significant change in the rate at which students made at least one payment given a click.
