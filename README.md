@@ -1,4 +1,4 @@
-# A-B-Testing(Statistical Testing)
+# A-B-Testing(Statistical Hypothesis Testing)
 
 Project at Turing College | May 2021
 
