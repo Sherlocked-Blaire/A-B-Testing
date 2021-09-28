@@ -1,10 +1,9 @@
-# A-B-Testing
-# Statistical Analysis (A/B Testing) 
+# A-B-Testing(Statistical Testing)
+
 Project at Turing College | May 2021
 
 ## Sprint 2: Statistical Tests and Experiments
- <br/>
-Data is available at https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0
+
 ### **INTRODUCTION**
  ### Problem statement:
  Students get frustrated during the 14 days trial as they are not able to commit the required time for the course.
@@ -22,7 +21,8 @@ Data is available at https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPX
 ``` Seaborn ```
 ``` Statsmodels ```
 ``` Scipy ```
-
+### Data
+Data is available at https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0
 ### CONCLUSION
 
 * More students enrolled inthe course in the control group than in the experiment group.
